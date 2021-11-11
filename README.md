@@ -16,7 +16,7 @@
       * Bot `null`'a aittir boş laf yapıp canımı sıkmayın izin aldım paylaşmak için.
       * 25 Star gelirse çok daha gelişmiş ve güzel hali gelicektir.
       * Star ve Fork atarak destek olabilirsiniz.
-      * 
+      
   - [X] **Proje Sahibi;** 
     * `Null;`
       * Projenin orjinal linki: https://github.com/This-null/discord-null-welcome-bot
